@@ -174,3 +174,5 @@ projectsRouter.delete("/:id", async (req, res) => {
 });
 
 export default projectsRouter;
+
+// python : flask vs django
